@@ -10,6 +10,6 @@ Index
 - 03 Big Data Integration and Processing
 - 04 Machine Learning with Big Data
 - 05 Graph Analytics from Big Data
-- 06 Capstone Project
+- 06 [Capstone Project](/06_Capstone_Project/)
 
 
