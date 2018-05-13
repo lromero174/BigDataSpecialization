@@ -5,11 +5,11 @@ This repository has all files presenting in Big Data Specialization, course offe
 
 Index
 
-- 01_Introduction to Big Data
-- 02_Introduction to Big Data Modeling and Management
-- 03_Big Data Integration and Processing
-- 04_Machine Learning with Big Data
-- 05_Graph Analytics from Big Data
-- 06_Capstone Project
+- 01 [Introduction to Big Data](/01_Intro_Big_Data/)
+- 02 Introduction to Big Data Modeling and Management
+- 03 Big Data Integration and Processing
+- 04 Machine Learning with Big Data
+- 05 Graph Analytics from Big Data
+- 06 Capstone Project
 
 
